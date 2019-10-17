@@ -1,4 +1,5 @@
 https://fosspost.org/tutorials/use-qemu-test-operating-systems-distributions
+
 modprobe tun
 sudo mknod /dev/net/tun c 10 200
 # create image
